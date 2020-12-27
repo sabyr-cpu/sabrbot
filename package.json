@@ -1,0 +1,19 @@
+{
+  "name": "sabrbot",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/sabyr-cpu/sabrbot.git",
+  "author": "sabyr-cpu",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord-player": "^3.0.3",
+    "discord.js": "^12.5.1",
+    "ffmpeg-static": "^4.2.7",
+    "soundcloud-downloader": "^0.2.2",
+    "ytdl-core": "^4.1.1"
+  }
+}
